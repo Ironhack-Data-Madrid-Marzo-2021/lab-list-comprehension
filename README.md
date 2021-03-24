@@ -20,7 +20,7 @@ Open the `main.ipynb` file in the `your-code` directory. There are a bunch of qu
 
 Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
 
-## Resources
+## Resources    
 
 - [List Comprehensions | Python Documentation](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 - [Using List Comprehensions With Pandas](https://chrisalbon.com/python/data_wrangling/pandas_list_comprehension/)
